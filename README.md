@@ -9,6 +9,8 @@ A curated list of open source tools for water modeling in engineering and scienc
 - [EFDC+](https://github.com/dsi-llc/EFDCPlus) - Environmental fluid dynamics code developed by DSI, LLC
 - [BASINS](https://github.com/respec/BASINS) - Multipurpose environmental analysis system designed to help regional, state, and local agencies perform watershed- and water quality-based studies
 - [WELLS](https://github.com/montyvesselinov/WELLS) - Multi-Well Variable-Rate Pumping-Test Analysis Tool (Hydrogeology, Aquifer Hydrodynamics, Groundwater Water Supply) 
+- [MOHID](https://github.com/Mohid-Water-Modelling-System/Mohid) - Three-dimensional water modelling system, developed by MARETEC (Marine and Environmental Technology Research Center) at Instituto Superior Técnico (IST) 
+- [EPANET](https://github.com/USEPA/Water-Distribution-Network-Model) - Performs extended-period simulation of the hydraulic and water quality behavior within drinking water distribution systems (e.g., pressurized pipe networks), which consist of pipes, nodes (junctions), pumps, valves, storage tanks, and reservoir
 
 ## Teaching and Exploration
 - [PYRO2](https://github.com/python-hydro/pyro2) - A framework for hydrodynamics explorations and prototyping
