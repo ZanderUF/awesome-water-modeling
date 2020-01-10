@@ -14,3 +14,5 @@ A curated list of open source tools for water modeling in engineering and scienc
 
 ## Teaching and Exploration
 - [PYRO2](https://github.com/python-hydro/pyro2) - A framework for hydrodynamics explorations and prototyping
+
+- [CoastSat](https://github.com/kvos/CoastSat) - CoastSat is an open-source software toolkit written in Python that enables users to obtain time-series of shoreline position at any coastline worldwide from 30+ years (and growing) of publicly available satellite imagery.
